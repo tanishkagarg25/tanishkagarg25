@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Tanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishkagarg25&theme=dark)]
+![Tanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishkagarg25&theme=dark)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkagarg25&theme=dark)
 
-https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/tanishka-garg-413767234/))
