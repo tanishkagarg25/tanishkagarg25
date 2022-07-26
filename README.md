@@ -1,5 +1,8 @@
-### Hi there 👋 I'm Tanishka
-
+##           Hi there 👋 I'm Tanishka
+- 🎓 I'm a collegian at PES University studying Computer Science 
+- 👯 I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning OCR
+- 📫 How to reach me: tanishkagarg25@gmail.com
 <!--
 **tanishkagarg25/tanishkagarg25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Tanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishkagarg25)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkagarg25&layout=compact)
+[![Tanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishkagarg25)&theme=dark]
+
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkagarg25&theme=dark)]
