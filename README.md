@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I’m currently working on AR/VR project
 - 📫 How to reach me: tanishkagarg25@gmail.com
-# Check out my coding skills on: https://leetcode.com/tanishka_garg/
+### Check out my coding skills on: https://leetcode.com/tanishka_garg/
 <!--
 **tanishkagarg25/tanishkagarg25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
